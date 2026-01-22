@@ -28,9 +28,9 @@
     ]
   },
   "interests": [
+    { "name": "Software Engineering" },
     { "name": "Web Development" },
-    { "name": "Web Design" },
-    { "name": "UI/UX Design" }
+    { "name": "User Interface Design" }
   ],
   "skills": [
     {
