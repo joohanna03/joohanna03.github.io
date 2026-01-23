@@ -5,7 +5,7 @@ title: "A Foundation in Computer Science, A Future in Design"
 # All dates must be YYYY-MM-DD format!
 date: 2026-01-22
 published: true
-labels
+labels:
   - Software Engineering
   - Web Design
   - Learning
