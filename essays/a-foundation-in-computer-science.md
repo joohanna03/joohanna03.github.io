@@ -11,7 +11,7 @@ labels:
   - Learning
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
+<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/ICS314_pic01.jpg">
 ## From Curiosity to Code
 
 I began my journey in computer Science with curiosity rather than experience. I was drawn to the idea of building things with code-turning abstract concepts into something functional on a screen. I envisioned myself confidently writing code, and that image motivated me to pursue this major, despite having no prior technical background when I entered college. As I began my studies, learning how software systems work quickly became both challenging and intellectually stimulating. Through studying the fundamentals of Computer Science, I developed a strong interest in the logic behind programs and the way complex systems emerge from simple prinicples. Over time, this curiosity grew into a deeper appreciation for structured problem-solving and analytical thinking. 
