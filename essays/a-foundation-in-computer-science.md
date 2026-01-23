@@ -16,13 +16,6 @@ labels:
 
 I began my journey in computer Science with curiosity rather than experience. I was drawn to the idea of building things with code-turning abstract concepts into something functional on a screen. I envisioned myself confidently writing code, and that image motivated me to pursue this major, despite having no prior technical background when I entered college. As I began my studies, learning how software systems work quickly became both challenging and intellectually stimulating. Through studying the fundamentals of Computer Science, I developed a strong interest in the logic behind programs and the way complex systems emerge from simple prinicples. Over time, this curiosity grew into a deeper appreciation for structured problem-solving and analytical thinking. 
 
-## In the context of programming
-
-In the context of programming, this has always been true. The difficult problems have always been different, although changes in technology can change the landscape quite a bit. "Business" type applications are the things that come to mind for me. Those types of applications are usually coupled in some way with people ... and people are awfully hard to deal with!
-
-Consider that one of the most popular content management systems is also considered the most horrible - Wordpress. But really, is there anything that fills that need? If it was so easy in the first place, where is the solution? Where's the magic CMS that is designed well enough that everyone hops on the boat to use it?
-
-Some things are just difficult - building applications that humans use is hard, and will probably be hard for at least the near future.
 
 ## Finding Structure, Then Creativity
 
