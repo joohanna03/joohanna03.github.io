@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/cotton/i'a_quest.png
 title: "I'a Quest"
 date: 2025
 published: true
