@@ -8,7 +8,7 @@ published: true
 labels:
   - Application Development
   - UI Design
-  - -User Interaction
+  - User Interaction
 summary: "This project involved designing and implementing an interactive todolist application that allows users to create, organize, and manage tasks using gesture-based interactions, calendar integration, and intuitive navigation. The app emphasizes usability, visual clarity, and efficient task tracking. "
 ---
 
