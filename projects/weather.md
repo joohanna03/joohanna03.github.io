@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/todolist-pic.png
+image: img/cotton/weather_pic.png
 title: "Visualizing Real-Time Weather Data Across South Korea"
 date: 2023
 published: true
