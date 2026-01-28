@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/todolist-pic.png
+image_square: img/cotton/todolist-pic.png
 title: "Managing Tasks Through Interactive Design"
 date: 2023
 published: true
