@@ -12,9 +12,9 @@ labels:
 summary: "This project involved designing and implementing an interactive todolist application that allows users to create, organize, and manage tasks using gesture-based interactions, calendar integration, and intuitive navigation. The app emphasizes usability, visual clarity, and efficient task tracking. "
 ---
 
-h2 {
-  margin-top: 20px;
-} 
+<style>
+  h2 {margin-top: 20px;}
+</style>
 
 ## What is the TODOLIST App
 
