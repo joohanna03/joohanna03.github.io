@@ -2,26 +2,26 @@
 layout: project
 type: project
 image: img/cotton/todolist-pic.png
-title: "Managing Tasks Through Interactive Design"
+title: "Visualizing Real-Time Weather Data Across South Korea"
 date: 2023
 published: true
 labels:
   - Application Development
-  - UI Design
-  - User Interaction
-summary: "This project involved designing and implementing an interactive todolist application that allows users to create, organize, and manage tasks using gesture-based interactions, calendar integration, and intuitive navigation. The app emphasizes usability, visual clarity, and efficient task tracking. "
+  - API Integration
+  - Data Visualization
+summary: "This project involved building a region-based weather forecast application that displays real-time temperature data for major cities across South Korea using an interactive map interface. The app integrates live weather data through an external API and dynamically updates location, time, and temperature based on user selection. "
 ---
 
 <style>
   h2 {margin-top: 20px;}
 </style>
 
-## What is the TODOLIST App
+## What is the South Korea Weather Forecast App
 
-The TODOLIST App is a task-management application designed to help users organize, prioritize, and track their daily responsibilities through an intuitive and interactive interface. The app allows users to create and delete tasks while supporting gesture-based interactions, such as sliding list items left or right to either delete them or mark them as important using a star icon. Tasks are displayed in a vertically ordered list where newly added items appear at the top, ensuring that the most recent and relevant tasks remain easily visible. 
+The South Korea Weather Forecast App is a location-based application that provides real-time temperature data for major regions across South Korea. The app organizes regions by their capital cities - such as Seoul, Busan, and Daegu - and displays current weather information in Celsius, consistent with South Korea's standard climate measurement. Users can interact with a map-based interface to select a region and view its live temperature data. 
 
-## Task Interaction and Navigation Design
-The app includes multiple interaction features to improve usability and efficiency. Each task can be marked as completed using a checkmark button, which visually distinguishes finished tasks from unfinished ones. A toolbar enables smooth navigation between pages, including a view that displays all unfinished tasks and another page dedicated to adding to reduce screen clutter while maintaining clear access to essential functionality.  
+## Region-Based Mapping and Data Interaction 
+The app uses an interactive map of South Korea, where each region is visually linked to its corresponding weather data. When a user clicks on a specific region, the application displays the selected location along with the current local time and temperature. This visual approach helps users quickly understand regional differences in weather while maintaining an intuitive and engaging user experience.   
 
-## Calendar Integration and UI Design
-A key component of this project was the integration of a calendar feature that allows tasks to be saved and associated with specific dates. I focused primarily on implementing the logic for saving tasks, linking them correctly to selected calendar dates, and ensuring they could be retrieved accurately. In addition to functionality, I worked on the visual design of the app, including color choices, button shapes, and layout decisions to create a clean and user-friendly interface. This project strengthened my skills in state management, UI design, and connection interactive components such as calendars with persistent task data. 
+## Live Data Integration and API Usage
+The core focus of this project was integrating live weather data by connecting a weather data URL to the application's code. I implemented the logic required to fetch real-time temperature data from an external source and update the interface dynamically based on user selection. Through this project, I gained experience working with external data sources, handling live updates, and synchronizing real-time information with interactive UI components. 
