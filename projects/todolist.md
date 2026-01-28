@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/i'a_pic.png
+image: img/cotton/todolist-pic.png
 title: "Managing Tasks Through Interactive Design"
 date: 2023
 published: true
@@ -12,7 +12,6 @@ labels:
 summary: "I'a Quest is a collaborative Java project where I implemented the Weke fish family, applying object-oriented principles like inheritance, abstraction, and custom exceptions to model Hawaiian fish life stages. "
 ---
 
-<img class="img-fluid" src="../img/cotton/ia.png">
 
 ## What is the TODOLIST App
 
