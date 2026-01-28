@@ -2,23 +2,24 @@
 layout: project
 type: project
 image: img/cotton/i'a_pic.png
-title: "I'a Quest"
-date: 2025
+title: "Managing Tasks Through Interactive Design"
+date: 2023
 published: true
 labels:
-  - GitHub
-  - Java
+  - Application Development
+  - UI Design
+  - -User Interaction
 summary: "I'a Quest is a collaborative Java project where I implemented the Weke fish family, applying object-oriented principles like inheritance, abstraction, and custom exceptions to model Hawaiian fish life stages. "
 ---
 
 <img class="img-fluid" src="../img/cotton/ia.png">
 
-## What is I'a Quest
+## What is the TODOLIST App
 
-I'a Quest is a Java-based project that models Hawaiian fish and their life stages using object-oriented design. The name comes from i'a, the Hawaiian word for "fish", and the quest-style interaction built into the program: users must correctly answer a simple math question to trigger a fish's growth to its next life stage. The project uses inheritance, abstract classes, interfaces, and exceptions to represent multiple fish families - such as Moi, Ama'ama, Weke, and Uhu - each with evolving characteristics. 
+The TODOLIST App is a task-management application designed to help users organize, prioritize, and track their daily responsibilities through an intuitive and interactive interface. The app allows users to create and delete tasks while supporting gesture-based interactions, such as sliding list items left or right to either delete them or mark them as important using a star icon. Tasks are displayed in a vertically ordered list where newly added items appear at the top, ensuring that the most recent and relevant tasks remain easily visible. 
 
-## Object-oriented Design : Weke Family Inheritance
-This project was completed by a team of three, and I was primarily responsible for the Weke fish family. I implemented all Weke-related classes - including the different life stages - ensuring they correctly extended the I-a abstract superclass and adhered to the UML specifications. My work included handling life-stage transitions, implementing required interfaces, and integrating custom exceptions related to size, color, and behavioral constraints specific to the Weke family. Throughout the project, I coordinated with my teammates to align design decisions across fish families and maintain a coherent overall class hierarchy. 
+## Task Interaction and Navigation Design
+The app includes multiple interaction features to improve usability and efficiency. Each task can be marked as completed using a checkmark button, which visually distinguishes finished tasks from unfinished ones. A toolbar enables smooth navigation between pages, including a view that displays all unfinished tasks and another page dedicated to adding to reduce screen clutter while maintaining clear access to essential functionality.  
 
-## Fish Life-Stage Modeling
-This project strengthened my understanding of object-oriented design, particularly inheritance, abstraction, and interface-driven development. I gained hands-on experience using custom exceptions and JUnit tests to enforce domain reules and validate edge cases. Working within an existing codebase taught me how to interpret UML diagrams, follow documentation, and designe consistent, extensible class hierarhcies. The project also refinforeced the importance of thoughtful abstraction when modeling real-world and culturally grounded concepts in software. 
+## Calendar Integration and UI Design
+A key component of this project was the integration of a calendar feature that allows tasks to be saved and associated with specific dates. I focused primarily on implementing the logic for saving tasks, linking them correctly to selected calendar dates, and ensuring they could be retrieved accurately. In addition to functionality, I worked on the visual design of the app, including color choices, button shapes, and layout decisions to create a clean and user-friendly interface. This project strengthened my skills in state management, UI design, and connection interactive components such as calendars with persistent task data. 
