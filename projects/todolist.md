@@ -9,7 +9,7 @@ labels:
   - Application Development
   - UI Design
   - -User Interaction
-summary: "I'a Quest is a collaborative Java project where I implemented the Weke fish family, applying object-oriented principles like inheritance, abstraction, and custom exceptions to model Hawaiian fish life stages. "
+summary: "This project involved designing and implementing an interactive todolist application that allows users to create, organize, and manage tasks using gesture-based interactions, calendar integration, and intuitive navigation. The app emphasizes usability, visual clarity, and efficient task tracking. "
 ---
 
 
