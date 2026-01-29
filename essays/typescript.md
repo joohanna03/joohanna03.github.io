@@ -11,7 +11,7 @@ labels:
   - Programming Fundamentals
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/type_pic.png">
+<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/typ_pic.png">
 
 ## Stepping into TypeScript
 
