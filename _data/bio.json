@@ -36,6 +36,10 @@
     {
       "name": "Languages and Frameworks",
       "keywords": ["C", "C++", "Java"]
+    }, 
+    {
+      "name": "Spoken Languages", 
+      "keywords": ["Korean","English"]
     }
   ],
   "education": [
