@@ -1,25 +1,26 @@
 ---
 layout: essay
 type: essay
-title: "A Foundation in Computer Science, A Future in Design"
+title: "My First Steps with TypeScript"
 # All dates must be YYYY-MM-DD format!
 date: 2026-01-22
 published: true
 labels:
   - Software Engineering
-  - Web Design
-  - Learning
+  - TypeScript
+  - Programming Fundamentals
 ---
 
 <img width="200px" class="rounded float-start pe-4" src="../img/difficulty/ICS314_pic02.png">
 
-## From Curiosity to Code
+## Stepping into TypeScript
 
-I began my journey in Computer Science with curiosity rather than experience. I was drawn to the idea of building things with code-turning abstract concepts into something functional on a screen. I envisioned myself confidently writing code, and that image motivated me to pursue this major, despite having no prior technical background when I entered college. As I began my studies, learning how software systems work quickly became both challenging and intellectually stimulating. Through studying the fundamentals of Computer Science, I developed a strong interest in the logic behind programs and the way complex systems emerge from simple principles. Over time, this curiosity grew into a deeper appreciation for structured problem-solving and analytical thinking. 
+TypeScript is a programming language I began learning only a few weeks ago. Before this, my experience was limited to C, C++, and Java, so the idea of coding in a new language initially filled me with anxiety and uncertainty. However, contrary to my expectations, working through FreeCodeCamp and E36 helped me realize that Java and TypeScript share many similarities. Although there were some differences, the comfort that came from this familiarity boosted my confidence and motivation to continue learning TypeScript. 
 
 
-## Finding Structure, Then Creativity
+## Why TypeScript Works for Beginners in Software Engineering
 
-As a beginner in software engineering, I see my learning process as a staircase-each step built upon core concepts such as algorithms, problem decomposition, and logical reasoning. Writing code has taught me how to approach problems methodically by breaking them into smaller, manageable pieces and translating my thought process into clear solutions. Along this journey, I discovered a strong interest in web design. I am particularly drawn to the balance between logic and creativity, where technical functionality meets visual expression. While I am still exploring which specific area to specialize in, this curiosity continues to motivate me to practice, experiment, and grow. 
-## Designing Experiences, Not Just Software
-My goal is to continuously strengthen my foundational knowledge while gradually expanding my technical skills and perspective. I aim to deepen my understanding of algorithms and software design while gaining more exposure to web technologies and user experience. In the long term, I hope to create digital experiences that are not only technically sound but also thoughtfully designed-websites that are intuitive, visually engaging, and meaningful to users. For me, computer science is not just about writing code, but about shaping ideas into experiences that connect with people and make technology more accessible and impactful.
+After several weeks of exposure to TypeScript, I believe it is a strong programming language for software engineers - especially for beginners with a solid foundation in core concepts. As a newcomer to TypeScript, I often wrote code by relying on knowledge I had gained while learning Java. While TypeScript's strict typing initially felt challenging, I gradually recognized the value of early error detection. This feature encourages careful planning and improves code correctness, both of which are essential from a software engineering perspective. The structure and clarity provided by TypeScript also contribute to more maintainable code, making it particularly effective as projects grow in size and complexity. 
+
+## Learning Through WOD: Building Speed and Accuracy 
+Throughout my experience learning TypeScript, I frequently relied on concepts from previous ICS courses, which reinforced the importance of WOD(Workout of the Day). WOD exercises require solving problems accurately within a limited time, helping me quickly identify the core requirements of a problem and plan the steps needed to implement a solution. Although working under time pressure was stressful at first, consistent practice through WOD helped me improve both my problem-solving efficiency and time management skills. This experience strengthened my ability to think clearly under constraints - and essential skill in real-world software development. 
