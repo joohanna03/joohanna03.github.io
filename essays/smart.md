@@ -23,6 +23,6 @@ An example of a smart question can be found on [StackOverflow](https://stackover
 
 ## When Vagueness Scares the Helpers Away
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/not-a-smart_pic.png">
+<img width="450px" class="rounded float-start pe-4" src="../img/difficulty/not-a-smart_pic.png">
 
 To contrast with this, I constructed a not so smart question based on common mistakes beginners make when asking for help. This example is not taken from StackOverflow but is intentionally designed to violate Raymond's principles. The title is vague, such as "Help please! My code doesn't work", and the question body provides only a general expression of confusion without including error messages, relevant code snippets, or a clear description of the expected behavior. Because essential information is missing, readers are forced to guess what the problem might be. Questions like this typically lead to unhelpful responses, including requests for clarification or comments pointing out missing details, rather than actionable solutions. Through this comparison, I realized that the quality of answers is strongly influenced by the quality of the question. Developing the habit of making smart, well-structured questions is therefore a key step toward becoming a more effective and thoughtful software engineer. 
