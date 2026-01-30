@@ -4,7 +4,7 @@ type: project
 image: img/cotton/sun_pic.png
 title: "Visualizing Real-Time Weather Data Across South Korea"
 date: 2023
-published: true
+published: false
 labels:
   - Application Development
   - API Integration
