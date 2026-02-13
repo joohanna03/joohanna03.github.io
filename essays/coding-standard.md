@@ -10,7 +10,7 @@ labels:
   - Coding Standards
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/question_pic.png">
+<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/cs_pic.png">
 
 Coding standards help programmers write code that is clean, consistent, and easy to understand. At first, using ESLint felt frustrating because of the curly red lines that constantly appeared while I was typing. Even when my program worked correctly, ESLint pointed out small issues like spacing, semicolons, or unused variables. These warnings distracted me and made me feel like I was making too many mistakes. I initially thought those small details were not as important as making the code run. 
 
