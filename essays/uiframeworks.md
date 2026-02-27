@@ -11,7 +11,7 @@ labels:
   - Programming Fundamentals
 ---
 
-<img width="215px" class="rounded float-start pe-4" src="../img/difficulty/dean_pic.png">
+<img width="215px" class="rounded float-start pe-4" src="../img/difficulty/dean_pic2.png">
 
 ## Stepping into Bootstrap 5
 
