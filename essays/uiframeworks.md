@@ -7,11 +7,11 @@ date: 2026-02-26
 published: true
 labels:
   - Software Engineering
-  - TypeScript
+  - UI Frameworks
   - Programming Fundamentals
 ---
 
-<img width="215px" class="rounded float-start pe-4" src="../img/difficulty/typ_pic.png">
+<img width="215px" class="rounded float-start pe-4" src="../img/difficulty/dean_pic.png">
 
 ## Stepping into Bootstrap 5
 
